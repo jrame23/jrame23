@@ -6,6 +6,9 @@
 - -A CIW certified associate web developer proficient in HTML & CSS
 - -Proficient in C++
 - -Proficient in SQL
+- -Proficient in Java
+- My hobbies primarily include pentesting
+and coding.
 - 📫 How to reach me: I can be reached at my email jacobcramey1999@gmail.com.
 
 <!---
