@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jrame23
 - 👀 I’m interested in computer science and software engineering.
-- 🌱 I’m currently studying computer science in university.
 - I am: 
 - -A COMPTIA certified project manager
 - -A CIW certified associate web developer proficient in HTML & CSS
